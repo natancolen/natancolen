@@ -7,8 +7,8 @@
 - 
 <div>
 <a href="https://github.com/natancolen">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=natancolen&show_icons=true&theme=dark"> 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=natancolen&show_icons=true&theme=dark">
+<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=natancolen&layout=compact)](https://github.com/natancolen/github-readme-stats"> 
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natancolen)](https://github.com/natancolen/github-readme-stats)
