@@ -10,7 +10,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natancolen&show_icons=true&theme=dark"> 
 
 </div>
+
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natancolen)](https://github.com/natancolen/github-readme-stats)
   
 <div style="display: inline_block"><br>
