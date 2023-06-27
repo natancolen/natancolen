@@ -11,8 +11,6 @@
 
 </div>
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=natancolen&repo=dev.to)](https://github.com/natancolen/dev.to)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natancolen)](https://github.com/natancolen/github-readme-stats)
   
 <div style="display: inline_block"><br>
